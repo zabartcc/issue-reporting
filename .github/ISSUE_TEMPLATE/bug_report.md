@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report for ZAB technology bugs
-title: ''
+title: "[BUG]"
 labels: bug
 assignees: cdconn00
 
