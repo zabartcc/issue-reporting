@@ -3,7 +3,6 @@ name: Feature Request
 about: Suggest an idea to the ZAB technology team
 title: "[FEATURE REQ]"
 labels: triage
-assignees: cdconn00
 
 ---
 
