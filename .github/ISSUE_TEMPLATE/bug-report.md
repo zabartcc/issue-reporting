@@ -3,7 +3,6 @@ name: Bug Report
 about: Create a report for ZAB technology bugs
 title: "[BUG]"
 labels: bug, triage
-assignees: cdconn00
 
 ---
 
